@@ -1,9 +1,9 @@
 # University Database
- A University Database Simulator written in C
+ A University Database Simulator written in C.
 
 ## Information
 
-This is a low level University Database Simulation. It uses a variation of data structures like Hashtables and Inverted Indexes to make queries to the data in small time periods. The basic structure is the hash table which organizes entries by student id (that acts as the key). At the same time, all data is stored in an inverted index (based on year) so we can make queries based on a specific data filter lets say. 
+This is a low level University Database Simulation. It uses a variation of data structures like Hashtables and Inverted Indexes to make queries to the data in small time periods. The basic structure is the hash table which organizes entries by student id (that acts as the key). At the same time, all data is stored in an inverted index (based on year) so we can make queries based on specific data filters. 
 
 ## Using the database
 
