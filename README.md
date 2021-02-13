@@ -1,5 +1,5 @@
 # University Database
- A University Database Simulator written in C.
+ A University Database Simulator with multiple Data Structures.
 
 ## Information
 
