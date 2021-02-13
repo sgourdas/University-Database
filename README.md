@@ -22,6 +22,8 @@ You can give the following arguments in the command line:
 
 ``` -c <configfile> ``` : Sets the game difficulty (default = 1).
 
+> There have been given some input and config files for your ease.
+
 ### Queries
 You can use the following commands to make queries to the db:
 
